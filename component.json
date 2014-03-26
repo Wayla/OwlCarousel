@@ -1,0 +1,20 @@
+{
+  "name": "owl-carousel",
+  "repo": "Wayla/OwlCarousel",
+  "description": "fork of OwlFonk's OwlCarousel",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "owl-carousel/owl.carousel.js",
+  "scripts": [
+    "owl-carousel/owl.carousel.js"
+  ],
+  "styles": [
+     "owl-carousel/owl.carousel.css",
+     "owl-carousel/owl.theme.css"
+  ],
+  "templates": [],
+  "remotes": []
+}
