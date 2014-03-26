@@ -4,7 +4,9 @@
   "description": "fork of OwlFonk's OwlCarousel",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "components/jquery": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "owl-carousel/owl.carousel.js",
